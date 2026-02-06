@@ -121,12 +121,6 @@ Microcontroller projects using Rust's `no_std` capabilities:
 | **DevOps** | Docker, Linux |
 | **Methodologies** | TDD, DDD, Scrum, Kanban, Agile |
 
----
-
-## 📫 Get in Touch
-
-- 💼 **Location**: Russia
-- ⚡ **Philosophy**: *"A system written in Rust doesn't just work — it cannot break."*
 
 ---
 
@@ -141,6 +135,11 @@ I'm open to:
 **Ready to code the future — without compromises.** 🦀⚡
 
 ---
+
+## 📫 Get in Touch
+
+- 💼 **Location**: Russia
+- ⚡ **Philosophy**: *"A system written in Rust doesn't just work — it cannot break."*
 
 <div align="center">
 
