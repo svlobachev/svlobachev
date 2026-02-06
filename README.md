@@ -125,7 +125,6 @@ Microcontroller projects using Rust's `no_std` capabilities:
 
 ## 📫 Get in Touch
 
-- 📧 **Email**: gsvlobachev@gmail.com
 - 💼 **Location**: Russia
 - ⚡ **Philosophy**: *"A system written in Rust doesn't just work — it cannot break."*
 
