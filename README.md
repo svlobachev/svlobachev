@@ -108,18 +108,6 @@ Microcontroller projects using Rust's `no_std` capabilities:
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- Replace with your actual GitHub username -->
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)](https://github.com/YOUR_USERNAME)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)](https://github.com/YOUR_USERNAME)
-
-</div>
-
----
-
 ## 🏆 Skills Matrix
 
 | Category | Technologies |
