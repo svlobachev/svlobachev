@@ -50,13 +50,6 @@ My philosophy: **Write code that outlives us**. Systems should be tools for huma
 - **NoSQL**: Redis, MongoDB, DynamoDB, RocksDB
 - **Time Series**: ClickHouse, InfluxDB
 
-### ☁️ **Cloud & DevOps**
-- **Cloud**: AWS (EC2, S3, Lambda, ECS), Google Cloud, Yandex Cloud
-- **Containers**: Docker, Docker Compose, Kubernetes
-- **CI/CD**: GitHub Actions, GitLab CI, Jenkins
-- **Infrastructure**: Terraform, Ansible
-- **Monitoring**: Prometheus, Grafana
-
 ### 🪛 **Tools & IDEs**
 - **Editors**: VSCode (rust-analyzer), JetBrains Fleet/RustRover
 - **Version Control**: Git, GitHub, GitLab
@@ -65,48 +58,6 @@ My philosophy: **Write code that outlives us**. Systems should be tools for huma
 
 ---
 
-## 🌱 Current Projects
-
-### 🤖 Telegram Bot
-AI-powered Telegram bot built. Features include:
-- Custom response training system
-- User analytics and statistics tracking
-- Multi-style conversation support
-- Async message processing
-
-**Tech**: Rust, `rust_ti`, PostgreSQL, Docker
-
----
-
-### 🦀 Flutter + Rust Bridge
-Cross-platform mobile/desktop app with performance-critical logic in Rust:
-- Native modules compiled via `flutter_rust_bridge`
-- Shared business logic across platforms
-- Zero-copy data transfer between Dart and Rust
-
-**Tech**: Flutter, Rust, FFI, CMake
-
----
-
-### 🖥️ Tauri Desktop Application
-Lightweight desktop app with Rust backend and Flutter Web frontend:
-- System tray integration
-- File system operations with Rust safety
-- Hot reload during development
-
-**Tech**: Tauri, Flutter Web, Rust
-
----
-
-### 🔧 Embedded Systems
-Microcontroller projects using Rust's `no_std` capabilities:
-- Sensor data collection and processing
-- Low-power IoT devices
-- Real-time control systems
-
-**Tech**: Rust, `embedded-hal`, STM32, ESP32
-
----
 
 ## 🏆 Skills Matrix
 
