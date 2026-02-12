@@ -1,4 +1,4 @@
-# 🦀⚡ Sergei | Full Stack Rust & Flutter Engineer
+# 🦀🐦⚡ Sergei | Full Stack Rust & Flutter Engineer
 
 [![Rust](https://img.shields.io/badge/Rust-1.70+-orange?logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-blue?logo=flutter&logoColor=white)](https://flutter.dev/)
