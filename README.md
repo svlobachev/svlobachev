@@ -31,7 +31,7 @@ My philosophy: **Write code that outlives us**. Systems should be tools for huma
 - **Telegram**: `rust_ti`, `teloxide`
 - **Utils**: `clap`, `anyhow`, `thiserror`, `tracing`
 
-### 🧩 **Flutter & Dart**
+### 🐦 **Flutter & Dart**
 - **State Management**: `Riverpod`, `Bloc`, `Provider`
 - **Platforms**: Mobile (iOS/Android), Web, Desktop (Linux/Windows/macOS)
 - **Navigation**: `go_router`, `auto_route`
