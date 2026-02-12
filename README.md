@@ -83,7 +83,7 @@ I'm open to:
 - 📚 **Technical consulting** on system architecture
 - 🎓 **Mentorship** in Rust or Flutter development
 
-**Ready to code the future — without compromises.** 🦀⚡
+**Ready to code the future — without compromises.** 🦀🐦⚡
 
 ---
 
